@@ -4,14 +4,14 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 34,
-                "correct": 4.066666666666666
+                "correct": 5.066666666666666
             }
         },
         {
             "path": "/texts/course/1. Vectors/config.yml",
             "status": {
                 "total": 34,
-                "correct": 4.066666666666666
+                "correct": 5.066666666666666
             }
         },
         {
@@ -83,8 +83,13 @@
             "path": "/texts/course/1. Vectors/Scalar Product Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    0,
+                    2,
+                    4
+                ]
             }
         },
         {
