@@ -1,0 +1,131 @@
+{
+    "chapters": [
+        {
+            "path": "/texts/course/config.yml",
+            "status": {
+                "total": 34,
+                "correct": 1.0666666666666667
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/config.yml",
+            "status": {
+                "total": 34,
+                "correct": 1.0666666666666667
+            }
+        },
+        {
+            "path": "/texts/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        }
+    ],
+    "lessons": [
+        {
+            "path": "/texts/course/1. Vectors/Length of Vector Proof/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Sum of Vectors Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Sum of Vectors Quiz 2/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scaling Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scalar Product Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scalar Product Proof/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0.06666666666666667,
+                "selectedVariantIds": [
+                    0,
+                    5,
+                    7,
+                    4,
+                    13,
+                    3,
+                    1,
+                    11,
+                    9,
+                    14,
+                    12,
+                    6,
+                    8,
+                    10,
+                    2
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Geometric Meaning Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Orthonormalisation Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Numpy Practice/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Vectors Practice/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        }
+    ]
+}
