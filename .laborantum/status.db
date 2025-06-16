@@ -4,14 +4,14 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 34,
-                "correct": 2.066666666666667
+                "correct": 3.066666666666667
             }
         },
         {
             "path": "/texts/course/1. Vectors/config.yml",
             "status": {
                 "total": 34,
-                "correct": 2.066666666666667
+                "correct": 3.066666666666667
             }
         },
         {
@@ -55,8 +55,14 @@
             "path": "/texts/course/1. Vectors/Sum of Vectors Quiz 2/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    3,
+                    5,
+                    7,
+                    2
+                ]
             }
         },
         {
