@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 38.34653465346535
+                "correct": 51.34653465346535
             }
         },
         {
@@ -25,21 +25,21 @@
             "path": "/texts/course/2. Vector Spaces/config.yml",
             "status": {
                 "total": 39,
-                "correct": 14
+                "correct": 19
             }
         },
         {
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
-                "correct": 0
+                "correct": 3
             }
         },
         {
             "path": "/texts/course/4. Linear Transforms/config.yml",
             "status": {
                 "total": 15,
-                "correct": 0
+                "correct": 5
             }
         }
     ],
@@ -2372,8 +2372,13 @@
             "path": "/texts/course/2. Vector Spaces/Spans/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    5,
+                    4,
+                    3,
+                    0
+                ]
             }
         },
         {
@@ -2942,24 +2947,41 @@
             "path": "/texts/course/2. Vector Spaces/Basis/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    4,
+                    0,
+                    2,
+                    6
+                ]
             }
         },
         {
             "path": "/texts/course/2. Vector Spaces/Coordinates/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    8,
+                    4,
+                    7,
+                    3,
+                    5,
+                    2
+                ]
             }
         },
         {
             "path": "/texts/course/2. Vector Spaces/Orthonormal Coordinates/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    4,
+                    2,
+                    0,
+                    1
+                ]
             }
         },
         {
@@ -2974,8 +2996,16 @@
             "path": "/texts/course/2. Vector Spaces/Hyperplanes/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    2,
+                    7,
+                    0,
+                    1,
+                    4,
+                    8
+                ]
             }
         },
         {
@@ -2990,8 +3020,14 @@
             "path": "/texts/course/3. Matrices/Matrix/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    5,
+                    1,
+                    8,
+                    7,
+                    3
+                ]
             }
         },
         {
@@ -3006,16 +3042,30 @@
             "path": "/texts/course/3. Matrices/Matrix Product Quiz/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    2,
+                    10,
+                    1,
+                    7,
+                    5,
+                    11,
+                    4,
+                    6
+                ]
             }
         },
         {
             "path": "/texts/course/3. Matrices/Matrix Product Optimal Order/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
             }
         },
         {
@@ -3030,40 +3080,69 @@
             "path": "/texts/course/4. Linear Transforms/Functions as Transforms/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    8,
+                    6,
+                    1,
+                    5
+                ]
             }
         },
         {
             "path": "/texts/course/4. Linear Transforms/Linear Transforms/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    4,
+                    11,
+                    10,
+                    6,
+                    8
+                ]
             }
         },
         {
             "path": "/texts/course/4. Linear Transforms/Invertible Matrices/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    0,
+                    1,
+                    3
+                ]
             }
         },
         {
             "path": "/texts/course/4. Linear Transforms/Invertible Matrices II/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    9,
+                    0,
+                    12,
+                    8,
+                    13,
+                    6,
+                    10,
+                    4
+                ]
             }
         },
         {
             "path": "/texts/course/4. Linear Transforms/Invertible Matrices III/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    6
+                ]
             }
         },
         {
