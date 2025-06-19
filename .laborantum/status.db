@@ -1,0 +1,330 @@
+{
+    "chapters": [
+        {
+            "path": "/texts/course/config.yml",
+            "status": {
+                "total": 34,
+                "correct": 20.81818181818182
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/config.yml",
+            "status": {
+                "total": 34,
+                "correct": 20.81818181818182
+            }
+        },
+        {
+            "path": "/texts/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        }
+    ],
+    "lessons": [
+        {
+            "path": "/texts/course/1. Vectors/Length of Vector Proof/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Sum of Vectors Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    4,
+                    3
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Sum of Vectors Quiz 2/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    3,
+                    5,
+                    7,
+                    2
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scaling Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    3,
+                    1,
+                    4,
+                    2
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scalar Product Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    0,
+                    2,
+                    4
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Scalar Product Proof/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Geometric Meaning Quiz/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 1,
+                "selectedVariantIds": [
+                    2,
+                    6,
+                    5,
+                    3
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Orthonormalisation Quiz/config.yml",
+            "status": {
+                "total": 2,
+                "correct": 2,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Numpy Practice/config.yml",
+            "status": {
+                "correct": 11.818181818181818,
+                "total": 15,
+                "testStatus": [
+                    {
+                        "name": "root -> vectors -> 0",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+                    },
+                    {
+                        "name": "root -> vectors -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> vectors -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> vectors -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> slices -> 5",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 0",
+                        "ok": false,
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.3333333333333333"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 4",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 5",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> deep_copy -> 6",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 0 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 1 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 2 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shapes -> 3 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 0",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (1,)"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 1",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 3)\nRecieved shape: (7,)"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 2",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 3)\nRecieved shape: (2,)"
+                    },
+                    {
+                        "name": "root -> sliced_reshaped -> 3",
+                        "ok": false,
+                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 2)\nRecieved shape: (8,)"
+                    },
+                    {
+                        "name": "root -> lovely -> 0",
+                        "ok": false,
+                        "status": "FAILED: Edit distance between strings is 1"
+                    },
+                    {
+                        "name": "root -> lovely -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> lovely -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> lovely -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> expression -> 3",
+                        "ok": true,
+                        "status": "OK"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/1. Vectors/Vectors Practice/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        }
+    ]
+}
