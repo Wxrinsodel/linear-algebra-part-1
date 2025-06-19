@@ -4,14 +4,14 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 24.321782178217823
+                "correct": 28.346534653465348
             }
         },
         {
             "path": "/texts/course/1. Vectors/config.yml",
             "status": {
                 "total": 34,
-                "correct": 24.321782178217823
+                "correct": 24.346534653465348
             }
         },
         {
@@ -25,7 +25,7 @@
             "path": "/texts/course/2. Vector Spaces/config.yml",
             "status": {
                 "total": 39,
-                "correct": 0
+                "correct": 4
             }
         },
         {
@@ -342,7 +342,7 @@
         {
             "path": "/texts/course/1. Vectors/Vectors Practice/config.yml",
             "status": {
-                "correct": 0.3217821782178218,
+                "correct": 0.34653465346534656,
                 "total": 10,
                 "testStatus": [
                     {
@@ -1863,507 +1863,507 @@
                     {
                         "name": "root -> orthonormal -> 0",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.0256581"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.09262134"
                     },
                     {
                         "name": "root -> orthonormal -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.22026"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 2",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.6187544"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 3",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.6000664"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5021498"
                     },
                     {
                         "name": "root -> orthonormal -> 4",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.782308"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 5",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.132123"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 6",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.373354"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 7",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.1274133"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 8",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.499094"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 9",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.5984752"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 10",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.3892617"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 11",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.8764725"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 12",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.598094"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 13",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.7219095"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 14",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.0036597"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 15",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.1931896"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 16",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.597627"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 17",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.299495"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 18",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.4775853"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 19",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.1095657"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5718468"
                     },
                     {
                         "name": "root -> orthonormal -> 20",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.534839"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 21",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.9141374"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 22",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.2619066"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.015824862"
                     },
                     {
                         "name": "root -> orthonormal -> 23",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.325663"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 24",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.39164"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 25",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.519398"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 26",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.6317625"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 27",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.3135617"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 28",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.5518584"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 29",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.5566254"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.115161486"
                     },
                     {
                         "name": "root -> orthonormal -> 30",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.6659045"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 31",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.4587846"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 32",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.1226482"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 33",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.7552347"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 34",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.261015"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 35",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.74405"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 36",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.303256"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 37",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.3869667"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 38",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.9066408"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 39",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.4933217"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 40",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.605586"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 41",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.0993056"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 42",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.8737984"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 43",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.817155"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 44",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.1676197"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 45",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.197842"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.30305105"
                     },
                     {
                         "name": "root -> orthonormal -> 46",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.4506288"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 47",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.6930294"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.1065513"
                     },
                     {
                         "name": "root -> orthonormal -> 48",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.198063"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 49",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.126295"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> orthonormal -> 50",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.056625"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.24095327"
                     },
                     {
                         "name": "root -> orthonormal -> 51",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.2686496"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 52",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.896465"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 53",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.031869"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 54",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.8027143"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 55",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.743471"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 56",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.5787964"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 57",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.2550254"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.013266627"
                     },
                     {
                         "name": "root -> orthonormal -> 58",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.324532"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 59",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.2768664"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 60",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.5223494"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 61",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.057574"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 62",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.4433022"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 63",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.592623"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 64",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.2249985"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 65",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.3930726"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 66",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.747756"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 67",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.3922122"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 68",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.1070914"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 69",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.688425"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 70",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.629438"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 71",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.9327703"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 72",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.4652696"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 73",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.73647"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 74",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.4201035"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 75",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.323662"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 76",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.806055"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 77",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.437755"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 78",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.1358147"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 79",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.9560356"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 80",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.9097824"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 81",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.0909796"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 82",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.4420185"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 83",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.8701944"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 84",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.0593944"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 85",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.869788"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 86",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.601545"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 87",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.411137"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 88",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.7055674"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 89",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.896446"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.7948128"
                     },
                     {
                         "name": "root -> orthonormal -> 90",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.8923693"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 91",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.9368243"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 92",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.6577754"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 93",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.5137167"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (7, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 94",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.026812"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 95",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.3027864"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.21051478"
                     },
                     {
                         "name": "root -> orthonormal -> 96",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.908254"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (4, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 97",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.8690996"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (9, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 98",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.396446"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.6889987"
                     },
                     {
                         "name": "root -> orthonormal -> 99",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.4852057"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (5, 2)\nRecieved shape: (2, 2)"
                     },
                     {
                         "name": "root -> orthonormal -> 100",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.572706"
+                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (6, 2)\nRecieved shape: (2, 2)"
                     }
                 ]
             }
@@ -2380,32 +2380,53 @@
             "path": "/texts/course/2. Vector Spaces/Linear Dependency/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    6,
+                    0
+                ]
             }
         },
         {
             "path": "/texts/course/2. Vector Spaces/Linear Independency 1/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    5,
+                    0,
+                    4,
+                    3,
+                    6
+                ]
             }
         },
         {
             "path": "/texts/course/2. Vector Spaces/Linear Independency 2/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    4,
+                    2
+                ]
             }
         },
         {
             "path": "/texts/course/2. Vector Spaces/Linear Dependensy and Orthonormalization/config.yml",
             "status": {
                 "total": 1,
-                "correct": 0,
-                "selectedVariantIds": []
+                "correct": 1,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7
+                ]
             }
         },
         {
