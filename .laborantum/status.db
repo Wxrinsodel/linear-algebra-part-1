@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 58.55071935765005
+                "correct": 62.995163802094496
             }
         },
         {
@@ -32,7 +32,7 @@
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
-                "correct": 7.444444444444445
+                "correct": 11.88888888888889
             }
         },
         {
@@ -4574,7 +4574,7 @@
         {
             "path": "/texts/course/3. Matrices/Matrices Manual Exercise/config.yml",
             "status": {
-                "correct": 4.444444444444445,
+                "correct": 8.88888888888889,
                 "total": 10,
                 "testStatus": [
                     {
@@ -4604,23 +4604,23 @@
                     },
                     {
                         "name": "root -> task4",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 0",
-                        "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (8, 6)\nRecieved shape: (8, 5)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 1",
-                        "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (2, 8)\nRecieved shape: (2, 6)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 2",
-                        "ok": false,
-                        "status": "FAILED: tensor shapes do not match:\nExpected shape: (3, 7)\nRecieved shape: (3, 6)"
+                        "ok": true,
+                        "status": "OK"
                     }
                 ]
             }
