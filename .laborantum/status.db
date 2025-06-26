@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 79.57525038218107
+                "correct": 80.68636149329218
             }
         },
         {
@@ -32,7 +32,7 @@
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
-                "correct": 11.88888888888889
+                "correct": 13
             }
         },
         {
@@ -6075,7 +6075,7 @@
         {
             "path": "/texts/course/3. Matrices/Matrices Manual Exercise/config.yml",
             "status": {
-                "correct": 8.88888888888889,
+                "correct": 10,
                 "total": 10,
                 "testStatus": [
                     {
@@ -6100,8 +6100,8 @@
                     },
                     {
                         "name": "root -> task3 -> 3",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 195.0"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4",
