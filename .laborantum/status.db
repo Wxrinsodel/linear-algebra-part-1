@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 111,
-                "correct": 80.68636149329218
+                "correct": 81.16255196948266
             }
         },
         {
@@ -32,7 +32,7 @@
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
-                "correct": 13
+                "correct": 13.476190476190476
             }
         },
         {
@@ -6159,23 +6159,23 @@
         {
             "path": "/texts/course/3. Matrices/Matrix Product/config.yml",
             "status": {
-                "correct": 0,
+                "correct": 0.47619047619047616,
                 "total": 10,
                 "testStatus": [
                     {
                         "name": "root -> task1 -> 1 -> 0",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 1 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 2",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task2 -> 0",
