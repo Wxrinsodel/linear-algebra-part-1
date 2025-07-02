@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 161,
-                "correct": 108.15728715728716
+                "correct": 113.87157287157288
             }
         },
         {
@@ -32,7 +32,7 @@
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
-                "correct": 16.650793650793652
+                "correct": 22.365079365079367
             }
         },
         {
@@ -6166,7 +6166,7 @@
         {
             "path": "/texts/course/3. Matrices/Matrix Product/config.yml",
             "status": {
-                "correct": 3.6507936507936507,
+                "correct": 9.365079365079366,
                 "total": 10,
                 "testStatus": [
                     {
@@ -6286,203 +6286,203 @@
                     },
                     {
                         "name": "root -> task4_1 -> 0",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (8, 8)\nRecieved shape: (8, 8, 8)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 1",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (2, 2)\nRecieved shape: (2, 2, 2)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 2",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (4, 4)\nRecieved shape: (4, 4, 4)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 3",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 6)\nRecieved shape: (6, 6, 6)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 4",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 3)\nRecieved shape: (3, 3, 3)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 5",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 3)\nRecieved shape: (3, 3, 3)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 6",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 6)\nRecieved shape: (6, 6, 6)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 7",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (6, 6)\nRecieved shape: (6, 6, 6)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 8",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (5, 5)\nRecieved shape: (5, 5, 5)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_1 -> 9",
-                        "ok": false,
-                        "status": "FAILED: tensor dimensionalities do not match:\nExpected shape: (3, 3)\nRecieved shape: (3, 3, 3)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 0",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 28.796875"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 1",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.25"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 2",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.875"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 3",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 31.083333333333332"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 4",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.666666666666666"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 5",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 16.11111111111111"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 6",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 22.444444444444443"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 7",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 31.5"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 8",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 25.8"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task4_2 -> 9",
-                        "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 13.11111111111111"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 0 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 0 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 1 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 1 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 2 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 2 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 3 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 3 -> 1",
                         "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.02857142857142858,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task5 -> 4 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 4 -> 1",
                         "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.03125,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task5 -> 5 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 5 -> 1",
                         "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.0535714285714286,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task5 -> 6 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 6 -> 1",
                         "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.06250000000000006,'\n                    that is larger than eps (0.0001)"
                     },
                     {
                         "name": "root -> task5 -> 7 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 7 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 8 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 8 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 9 -> 0",
-                        "ok": false,
-                        "status": "FAILED. Item is not found"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 9 -> 1",
-                        "ok": false,
-                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                        "ok": true,
+                        "status": "OK"
                     }
                 ]
             }
