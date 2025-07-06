@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 229,
-                "correct": 180.3891953817327
+                "correct": 180.86538585792317
             }
         },
         {
@@ -32,7 +32,7 @@
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
-                "correct": 13
+                "correct": 13.476190476190476
             }
         },
         {
@@ -6180,76 +6180,324 @@
         {
             "path": "/texts/course/3. Matrices/Matrix Product/config.yml",
             "status": {
+                "correct": 0.47619047619047616,
                 "total": 10,
-                "correct": 0,
-                "testStatus": [],
-                "error": [
-                    "[NbClientApp] Executing .laborantum/texts/course/3. Matrices/Matrix Product/task.ipynb",
-                    "[NbClientApp] Executing notebook with kernel: python3",
-                    "Traceback (most recent call last):",
-                    "  File \"/usr/local/lib/python3.11/site-packages/jupyter_core/utils/__init__.py\", line 154, in wrapped",
-                    "    asyncio.get_running_loop()",
-                    "RuntimeError: no running event loop",
-                    "",
-                    "During handling of the above exception, another exception occurred:",
-                    "",
-                    "Traceback (most recent call last):",
-                    "  File \"/usr/local/bin/jupyter-execute\", line 8, in <module>",
-                    "    sys.exit(main())",
-                    "             ^^^^^^",
-                    "  File \"/usr/local/lib/python3.11/site-packages/jupyter_core/application.py\", line 284, in launch_instance",
-                    "    super().launch_instance(argv=argv, **kwargs)",
-                    "  File \"/usr/local/lib/python3.11/site-packages/traitlets/config/application.py\", line 1074, in launch_instance",
-                    "    app.initialize(argv)",
-                    "  File \"/usr/local/lib/python3.11/site-packages/traitlets/config/application.py\", line 118, in inner",
-                    "    return method(app, *args, **kwargs)",
-                    "           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
-                    "  File \"/usr/local/lib/python3.11/site-packages/nbclient/cli.py\", line 161, in initialize",
-                    "    self.run_notebook(path)",
-                    "  File \"/usr/local/lib/python3.11/site-packages/nbclient/cli.py\", line 215, in run_notebook",
-                    "    client.execute()",
-                    "  File \"/usr/local/lib/python3.11/site-packages/jupyter_core/utils/__init__.py\", line 158, in wrapped",
-                    "    return loop.run_until_complete(inner)",
-                    "           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^",
-                    "  File \"/usr/local/lib/python3.11/asyncio/base_events.py\", line 654, in run_until_complete",
-                    "    return future.result()",
-                    "           ^^^^^^^^^^^^^^^",
-                    "  File \"/usr/local/lib/python3.11/site-packages/nbclient/client.py\", line 709, in async_execute",
-                    "    await self.async_execute_cell(",
-                    "  File \"/usr/local/lib/python3.11/site-packages/nbclient/client.py\", line 1062, in async_execute_cell",
-                    "    await self._check_raise_for_error(cell, cell_index, exec_reply)",
-                    "  File \"/usr/local/lib/python3.11/site-packages/nbclient/client.py\", line 918, in _check_raise_for_error",
-                    "    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)",
-                    "nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:",
-                    "------------------",
-                    "import numpy as np",
-                    "import json_tricks as json_tricks",
-                    "import os",
-                    "",
-                    "answer = {}",
-                    "inputs = json_tricks.load('inputs.json')",
-                    "------------------",
-                    "",
-                    "",
-                    "\u001b[31m---------------------------------------------------------------------------\u001b[39m",
-                    "\u001b[31mFileNotFoundError\u001b[39m                         Traceback (most recent call last)",
-                    "\u001b[36mCell\u001b[39m\u001b[36m \u001b[39m\u001b[32mIn[1]\u001b[39m\u001b[32m, line 6\u001b[39m",
-                    "\u001b[32m      3\u001b[39m \u001b[38;5;28;01mimport\u001b[39;00m\u001b[38;5;250m \u001b[39m\u001b[34;01mos\u001b[39;00m",
-                    "\u001b[32m      5\u001b[39m answer = {}",
-                    "\u001b[32m----> \u001b[39m\u001b[32m6\u001b[39m inputs = \u001b[43mjson_tricks\u001b[49m\u001b[43m.\u001b[49m\u001b[43mload\u001b[49m\u001b[43m(\u001b[49m\u001b[33;43m'\u001b[39;49m\u001b[33;43minputs.json\u001b[39;49m\u001b[33;43m'\u001b[39;49m\u001b[43m)\u001b[49m",
-                    "",
-                    "\u001b[36mFile \u001b[39m\u001b[32m/usr/local/lib/python3.11/site-packages/json_tricks/nonp.py:284\u001b[39m, in \u001b[36mload\u001b[39m\u001b[34m(fp, preserve_order, ignore_comments, decompression, obj_pairs_hooks, extra_obj_pairs_hooks, cls_lookup_map, allow_duplicates, conv_str_byte, properties, **jsonkwargs)\u001b[39m",
-                    "\u001b[32m    282\u001b[39m \topen_binary = \u001b[38;5;28mbool\u001b[39m(decompression)",
-                    "\u001b[32m    283\u001b[39m \u001b[38;5;28;01melse\u001b[39;00m:",
-                    "\u001b[32m--> \u001b[39m\u001b[32m284\u001b[39m \t\u001b[38;5;28;01mwith\u001b[39;00m \u001b[38;5;28;43mopen\u001b[39;49m\u001b[43m(\u001b[49m\u001b[43mfp\u001b[49m\u001b[43m,\u001b[49m\u001b[43m \u001b[49m\u001b[33;43m'\u001b[39;49m\u001b[33;43mrb\u001b[39;49m\u001b[33;43m'\u001b[39;49m\u001b[43m)\u001b[49m \u001b[38;5;28;01mas\u001b[39;00m fh:",
-                    "\u001b[32m    285\u001b[39m \t\t\u001b[38;5;66;03m# This attempts to detect gzip mode; gzip should always\u001b[39;00m",
-                    "\u001b[32m    286\u001b[39m \t\t\u001b[38;5;66;03m# have this header, and text json can't have it.\u001b[39;00m",
-                    "\u001b[32m    287\u001b[39m \t\topen_binary = (fh.read(\u001b[32m2\u001b[39m) == \u001b[33mb\u001b[39m\u001b[33m'\u001b[39m\u001b[38;5;130;01m\\x1f\u001b[39;00m\u001b[38;5;130;01m\\x8b\u001b[39;00m\u001b[33m'\u001b[39m)",
-                    "\u001b[32m    288\u001b[39m \u001b[38;5;28;01mwith\u001b[39;00m \u001b[38;5;28mopen\u001b[39m(fp, \u001b[33m'\u001b[39m\u001b[33mrb\u001b[39m\u001b[33m'\u001b[39m \u001b[38;5;28;01mif\u001b[39;00m open_binary \u001b[38;5;28;01melse\u001b[39;00m \u001b[33m'\u001b[39m\u001b[33mr\u001b[39m\u001b[33m'\u001b[39m) \u001b[38;5;28;01mas\u001b[39;00m fh:",
-                    "",
-                    "\u001b[31mFileNotFoundError\u001b[39m: [Errno 2] No such file or directory: 'inputs.json'",
-                    "",
-                    ""
+                "testStatus": [
+                    {
+                        "name": "root -> task1 -> 1 -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 1 -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task1 -> 2",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> task2 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task2 -> 1",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task2 -> 2",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task2 -> 3",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task2 -> 4",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task2 -> 5",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task2 -> 6",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task2 -> 7",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task2 -> 8",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task2 -> 9",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task3 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task3 -> 1",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task3 -> 2",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task3 -> 3",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task3 -> 4",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task3 -> 5",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task3 -> 6",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task3 -> 7",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task3 -> 8",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task3 -> 9",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_1 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_1 -> 1",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_1 -> 2",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_1 -> 3",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_1 -> 4",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_1 -> 5",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_1 -> 6",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_1 -> 7",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_1 -> 8",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_1 -> 9",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_2 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_2 -> 1",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_2 -> 2",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_2 -> 3",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_2 -> 4",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_2 -> 5",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_2 -> 6",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_2 -> 7",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_2 -> 8",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task4_2 -> 9",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 0 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 0 -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> task5 -> 1 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 1 -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> task5 -> 2 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 2 -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> task5 -> 3 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 3 -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> task5 -> 4 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 4 -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> task5 -> 5 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 5 -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> task5 -> 6 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 6 -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> task5 -> 7 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 7 -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> task5 -> 8 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 8 -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    },
+                    {
+                        "name": "root -> task5 -> 9 -> 0",
+                        "ok": false,
+                        "status": "FAILED. Item is not found"
+                    },
+                    {
+                        "name": "root -> task5 -> 9 -> 1",
+                        "ok": false,
+                        "status": "FAILED: The answer is not found or is of incorrect Type"
+                    }
                 ]
             }
         },
