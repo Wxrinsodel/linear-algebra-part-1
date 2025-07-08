@@ -4,7 +4,7 @@
             "path": "/texts/course/config.yml",
             "status": {
                 "total": 229,
-                "correct": 204.52936507936505
+                "correct": 208.61666666666667
             }
         },
         {
@@ -32,7 +32,7 @@
             "path": "/texts/course/3. Matrices/config.yml",
             "status": {
                 "total": 23,
-                "correct": 21.41269841269841
+                "correct": 23
             }
         },
         {
@@ -53,7 +53,7 @@
             "path": "/texts/course/6. Determinants/config.yml",
             "status": {
                 "total": 68,
-                "correct": 48.45
+                "correct": 50.95
             }
         },
         {
@@ -6180,7 +6180,7 @@
         {
             "path": "/texts/course/3. Matrices/Matrix Product/config.yml",
             "status": {
-                "correct": 8.412698412698413,
+                "correct": 10,
                 "total": 10,
                 "testStatus": [
                     {
@@ -6405,8 +6405,8 @@
                     },
                     {
                         "name": "root -> task5 -> 0 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 1 -> 0",
@@ -6415,8 +6415,8 @@
                     },
                     {
                         "name": "root -> task5 -> 1 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.25,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 2 -> 0",
@@ -6425,8 +6425,8 @@
                     },
                     {
                         "name": "root -> task5 -> 2 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 3 -> 0",
@@ -6435,8 +6435,8 @@
                     },
                     {
                         "name": "root -> task5 -> 3 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.75,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 4 -> 0",
@@ -6445,8 +6445,8 @@
                     },
                     {
                         "name": "root -> task5 -> 4 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.25,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 5 -> 0",
@@ -6455,8 +6455,8 @@
                     },
                     {
                         "name": "root -> task5 -> 5 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 6 -> 0",
@@ -6465,8 +6465,8 @@
                     },
                     {
                         "name": "root -> task5 -> 6 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.25,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 7 -> 0",
@@ -6475,8 +6475,8 @@
                     },
                     {
                         "name": "root -> task5 -> 7 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 8 -> 0",
@@ -6485,8 +6485,8 @@
                     },
                     {
                         "name": "root -> task5 -> 8 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task5 -> 9 -> 0",
@@ -6495,8 +6495,8 @@
                     },
                     {
                         "name": "root -> task5 -> 9 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     }
                 ]
             }
@@ -25910,7 +25910,7 @@
         {
             "path": "/texts/course/6. Determinants/Jacobian Matrix and Its Determinant/config.yml",
             "status": {
-                "correct": 7.5,
+                "correct": 10,
                 "total": 10,
                 "testStatus": [
                     {
@@ -25920,8 +25920,8 @@
                     },
                     {
                         "name": "root -> task1 -> 0 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.04467918832241491,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 1 -> 0",
@@ -25930,8 +25930,8 @@
                     },
                     {
                         "name": "root -> task1 -> 1 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.1793791776167808,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 2 -> 0",
@@ -25940,8 +25940,8 @@
                     },
                     {
                         "name": "root -> task1 -> 2 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.3035928296190242,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 3 -> 0",
@@ -25950,8 +25950,8 @@
                     },
                     {
                         "name": "root -> task1 -> 3 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.950464368877099,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 4 -> 0",
@@ -25960,8 +25960,8 @@
                     },
                     {
                         "name": "root -> task1 -> 4 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.0907466304668905,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 5 -> 0",
@@ -25970,8 +25970,8 @@
                     },
                     {
                         "name": "root -> task1 -> 5 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.3019310453752717,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 6 -> 0",
@@ -25980,8 +25980,8 @@
                     },
                     {
                         "name": "root -> task1 -> 6 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.452563385262366,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 7 -> 0",
@@ -25990,8 +25990,8 @@
                     },
                     {
                         "name": "root -> task1 -> 7 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.1663834238278672,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 8 -> 0",
@@ -26000,8 +26000,8 @@
                     },
                     {
                         "name": "root -> task1 -> 8 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.8963881793897255,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 9 -> 0",
@@ -26010,8 +26010,8 @@
                     },
                     {
                         "name": "root -> task1 -> 9 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.057196234228752196,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 10 -> 0",
@@ -26020,8 +26020,8 @@
                     },
                     {
                         "name": "root -> task1 -> 10 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.7778237068395726,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 11 -> 0",
@@ -26030,8 +26030,8 @@
                     },
                     {
                         "name": "root -> task1 -> 11 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3378652767294045,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 12 -> 0",
@@ -26040,8 +26040,8 @@
                     },
                     {
                         "name": "root -> task1 -> 12 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5483463832309892,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 13 -> 0",
@@ -26050,8 +26050,8 @@
                     },
                     {
                         "name": "root -> task1 -> 13 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3124259943685666,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 14 -> 0",
@@ -26060,8 +26060,8 @@
                     },
                     {
                         "name": "root -> task1 -> 14 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.2926193991957855,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 15 -> 0",
@@ -26070,8 +26070,8 @@
                     },
                     {
                         "name": "root -> task1 -> 15 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.715454837772744,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 16 -> 0",
@@ -26080,8 +26080,8 @@
                     },
                     {
                         "name": "root -> task1 -> 16 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.762627737560758,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 17 -> 0",
@@ -26090,8 +26090,8 @@
                     },
                     {
                         "name": "root -> task1 -> 17 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.46749551834666203,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 18 -> 0",
@@ -26100,8 +26100,8 @@
                     },
                     {
                         "name": "root -> task1 -> 18 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.8617810514981876,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 19 -> 0",
@@ -26110,8 +26110,8 @@
                     },
                     {
                         "name": "root -> task1 -> 19 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5424170874481212,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 20 -> 0",
@@ -26120,8 +26120,8 @@
                     },
                     {
                         "name": "root -> task1 -> 20 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.4555378525370917,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 21 -> 0",
@@ -26130,8 +26130,8 @@
                     },
                     {
                         "name": "root -> task1 -> 21 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.0204214177874178,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 22 -> 0",
@@ -26140,8 +26140,8 @@
                     },
                     {
                         "name": "root -> task1 -> 22 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.19316373186946478,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 23 -> 0",
@@ -26150,8 +26150,8 @@
                     },
                     {
                         "name": "root -> task1 -> 23 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.019147322794494825,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 24 -> 0",
@@ -26160,8 +26160,8 @@
                     },
                     {
                         "name": "root -> task1 -> 24 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.2195271335379845,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 25 -> 0",
@@ -26170,8 +26170,8 @@
                     },
                     {
                         "name": "root -> task1 -> 25 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3874503870999009,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 26 -> 0",
@@ -26180,8 +26180,8 @@
                     },
                     {
                         "name": "root -> task1 -> 26 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.6154578292705175,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 27 -> 0",
@@ -26190,8 +26190,8 @@
                     },
                     {
                         "name": "root -> task1 -> 27 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.2110344380902944,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 28 -> 0",
@@ -26200,8 +26200,8 @@
                     },
                     {
                         "name": "root -> task1 -> 28 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.4452839886059277,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 29 -> 0",
@@ -26210,8 +26210,8 @@
                     },
                     {
                         "name": "root -> task1 -> 29 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.1717739401952434,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 30 -> 0",
@@ -26220,8 +26220,8 @@
                     },
                     {
                         "name": "root -> task1 -> 30 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.539489564178221,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 31 -> 0",
@@ -26230,8 +26230,8 @@
                     },
                     {
                         "name": "root -> task1 -> 31 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.9665092564796343,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 32 -> 0",
@@ -26240,8 +26240,8 @@
                     },
                     {
                         "name": "root -> task1 -> 32 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.38415015779933714,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 33 -> 0",
@@ -26250,8 +26250,8 @@
                     },
                     {
                         "name": "root -> task1 -> 33 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.939120821403499,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 34 -> 0",
@@ -26260,8 +26260,8 @@
                     },
                     {
                         "name": "root -> task1 -> 34 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.946424683464879,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 35 -> 0",
@@ -26270,8 +26270,8 @@
                     },
                     {
                         "name": "root -> task1 -> 35 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.1583500020091158,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 36 -> 0",
@@ -26280,8 +26280,8 @@
                     },
                     {
                         "name": "root -> task1 -> 36 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5256651175287583,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 37 -> 0",
@@ -26290,8 +26290,8 @@
                     },
                     {
                         "name": "root -> task1 -> 37 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.4034793033298705,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 38 -> 0",
@@ -26300,8 +26300,8 @@
                     },
                     {
                         "name": "root -> task1 -> 38 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.681523904694139,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 39 -> 0",
@@ -26310,8 +26310,8 @@
                     },
                     {
                         "name": "root -> task1 -> 39 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.7481031032528795,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 40 -> 0",
@@ -26320,8 +26320,8 @@
                     },
                     {
                         "name": "root -> task1 -> 40 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.8685132408027627,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 41 -> 0",
@@ -26330,8 +26330,8 @@
                     },
                     {
                         "name": "root -> task1 -> 41 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.0642148994636245,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 42 -> 0",
@@ -26340,8 +26340,8 @@
                     },
                     {
                         "name": "root -> task1 -> 42 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.7118408426930936,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 43 -> 0",
@@ -26350,8 +26350,8 @@
                     },
                     {
                         "name": "root -> task1 -> 43 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5681998557431382,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 44 -> 0",
@@ -26360,8 +26360,8 @@
                     },
                     {
                         "name": "root -> task1 -> 44 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.1661280764855695,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 45 -> 0",
@@ -26370,8 +26370,8 @@
                     },
                     {
                         "name": "root -> task1 -> 45 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.0418601245227026,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 46 -> 0",
@@ -26380,8 +26380,8 @@
                     },
                     {
                         "name": "root -> task1 -> 46 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.1087879043045605,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 47 -> 0",
@@ -26390,8 +26390,8 @@
                     },
                     {
                         "name": "root -> task1 -> 47 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.34897638438362727,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 48 -> 0",
@@ -26400,8 +26400,8 @@
                     },
                     {
                         "name": "root -> task1 -> 48 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.1657780831452023,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 49 -> 0",
@@ -26410,8 +26410,8 @@
                     },
                     {
                         "name": "root -> task1 -> 49 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.112590214329905,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 50 -> 0",
@@ -26420,8 +26420,8 @@
                     },
                     {
                         "name": "root -> task1 -> 50 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5784984239972175,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 51 -> 0",
@@ -26430,8 +26430,8 @@
                     },
                     {
                         "name": "root -> task1 -> 51 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.9432015522885937,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 52 -> 0",
@@ -26440,8 +26440,8 @@
                     },
                     {
                         "name": "root -> task1 -> 52 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.8599783128492582,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 53 -> 0",
@@ -26450,8 +26450,8 @@
                     },
                     {
                         "name": "root -> task1 -> 53 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.4974373149248312,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 54 -> 0",
@@ -26460,8 +26460,8 @@
                     },
                     {
                         "name": "root -> task1 -> 54 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 3.5733112124252413,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 55 -> 0",
@@ -26470,8 +26470,8 @@
                     },
                     {
                         "name": "root -> task1 -> 55 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.186762621496705,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 56 -> 0",
@@ -26480,8 +26480,8 @@
                     },
                     {
                         "name": "root -> task1 -> 56 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.2154909713554708,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 57 -> 0",
@@ -26490,8 +26490,8 @@
                     },
                     {
                         "name": "root -> task1 -> 57 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.9883181675011411,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 58 -> 0",
@@ -26500,8 +26500,8 @@
                     },
                     {
                         "name": "root -> task1 -> 58 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.2413817417657722,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 59 -> 0",
@@ -26510,8 +26510,8 @@
                     },
                     {
                         "name": "root -> task1 -> 59 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.716085523744933,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 60 -> 0",
@@ -26520,8 +26520,8 @@
                     },
                     {
                         "name": "root -> task1 -> 60 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.213653101134691,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 61 -> 0",
@@ -26530,8 +26530,8 @@
                     },
                     {
                         "name": "root -> task1 -> 61 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.560562824948163,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 62 -> 0",
@@ -26540,8 +26540,8 @@
                     },
                     {
                         "name": "root -> task1 -> 62 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 3.902141248629356,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 63 -> 0",
@@ -26550,8 +26550,8 @@
                     },
                     {
                         "name": "root -> task1 -> 63 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.8412006873114051,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 64 -> 0",
@@ -26560,8 +26560,8 @@
                     },
                     {
                         "name": "root -> task1 -> 64 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.7777595882194732,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 65 -> 0",
@@ -26570,8 +26570,8 @@
                     },
                     {
                         "name": "root -> task1 -> 65 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.1600186015124745,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 66 -> 0",
@@ -26580,8 +26580,8 @@
                     },
                     {
                         "name": "root -> task1 -> 66 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 3.515322954046063,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 67 -> 0",
@@ -26590,8 +26590,8 @@
                     },
                     {
                         "name": "root -> task1 -> 67 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.1242128244020066,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 68 -> 0",
@@ -26600,8 +26600,8 @@
                     },
                     {
                         "name": "root -> task1 -> 68 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.3919798113560604,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 69 -> 0",
@@ -26610,8 +26610,8 @@
                     },
                     {
                         "name": "root -> task1 -> 69 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6801222581562456,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 70 -> 0",
@@ -26620,8 +26620,8 @@
                     },
                     {
                         "name": "root -> task1 -> 70 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.4369615259090471,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 71 -> 0",
@@ -26630,8 +26630,8 @@
                     },
                     {
                         "name": "root -> task1 -> 71 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 3.715589428067692,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 72 -> 0",
@@ -26640,8 +26640,8 @@
                     },
                     {
                         "name": "root -> task1 -> 72 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.9337758993570995,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 73 -> 0",
@@ -26650,8 +26650,8 @@
                     },
                     {
                         "name": "root -> task1 -> 73 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.25010686761131073,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 74 -> 0",
@@ -26660,8 +26660,8 @@
                     },
                     {
                         "name": "root -> task1 -> 74 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.31723458980004426,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 75 -> 0",
@@ -26670,8 +26670,8 @@
                     },
                     {
                         "name": "root -> task1 -> 75 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6153554846138888,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 76 -> 0",
@@ -26680,8 +26680,8 @@
                     },
                     {
                         "name": "root -> task1 -> 76 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.231554832977628,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 77 -> 0",
@@ -26690,8 +26690,8 @@
                     },
                     {
                         "name": "root -> task1 -> 77 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.049432096198725,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 78 -> 0",
@@ -26700,8 +26700,8 @@
                     },
                     {
                         "name": "root -> task1 -> 78 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5395698946486722,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 79 -> 0",
@@ -26710,8 +26710,8 @@
                     },
                     {
                         "name": "root -> task1 -> 79 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 3.6704168079343154,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 80 -> 0",
@@ -26720,8 +26720,8 @@
                     },
                     {
                         "name": "root -> task1 -> 80 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.9986599618278205,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 81 -> 0",
@@ -26730,8 +26730,8 @@
                     },
                     {
                         "name": "root -> task1 -> 81 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.356132737920632,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 82 -> 0",
@@ -26740,8 +26740,8 @@
                     },
                     {
                         "name": "root -> task1 -> 82 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.8252870513051469,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 83 -> 0",
@@ -26750,8 +26750,8 @@
                     },
                     {
                         "name": "root -> task1 -> 83 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.22543726181231705,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 84 -> 0",
@@ -26760,8 +26760,8 @@
                     },
                     {
                         "name": "root -> task1 -> 84 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.8530148200711309,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 85 -> 0",
@@ -26770,8 +26770,8 @@
                     },
                     {
                         "name": "root -> task1 -> 85 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.6277312684490655,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 86 -> 0",
@@ -26780,8 +26780,8 @@
                     },
                     {
                         "name": "root -> task1 -> 86 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.612322554788204,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 87 -> 0",
@@ -26790,8 +26790,8 @@
                     },
                     {
                         "name": "root -> task1 -> 87 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.5144202082992493,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 88 -> 0",
@@ -26800,8 +26800,8 @@
                     },
                     {
                         "name": "root -> task1 -> 88 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.028809041014959735,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 89 -> 0",
@@ -26810,8 +26810,8 @@
                     },
                     {
                         "name": "root -> task1 -> 89 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.6932416498511742,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 90 -> 0",
@@ -26820,8 +26820,8 @@
                     },
                     {
                         "name": "root -> task1 -> 90 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.3290507121201216,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 91 -> 0",
@@ -26830,8 +26830,8 @@
                     },
                     {
                         "name": "root -> task1 -> 91 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.082354519841447,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 92 -> 0",
@@ -26840,8 +26840,8 @@
                     },
                     {
                         "name": "root -> task1 -> 92 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.000533010224309,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 93 -> 0",
@@ -26850,8 +26850,8 @@
                     },
                     {
                         "name": "root -> task1 -> 93 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.907150081557865,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 94 -> 0",
@@ -26860,8 +26860,8 @@
                     },
                     {
                         "name": "root -> task1 -> 94 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.4321962647582085,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 95 -> 0",
@@ -26870,8 +26870,8 @@
                     },
                     {
                         "name": "root -> task1 -> 95 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.4762277059487073,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 96 -> 0",
@@ -26880,8 +26880,8 @@
                     },
                     {
                         "name": "root -> task1 -> 96 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.0204996845890726,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 97 -> 0",
@@ -26890,8 +26890,8 @@
                     },
                     {
                         "name": "root -> task1 -> 97 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.2144138762645047,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 98 -> 0",
@@ -26900,8 +26900,8 @@
                     },
                     {
                         "name": "root -> task1 -> 98 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.2528542727019616,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task1 -> 99 -> 0",
@@ -26910,8 +26910,8 @@
                     },
                     {
                         "name": "root -> task1 -> 99 -> 1",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 0.7208079732606893,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> task2 -> 0 -> 0",
