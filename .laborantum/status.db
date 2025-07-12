@@ -3,8 +3,8 @@
         {
             "path": "/texts/course/config.yml",
             "status": {
-                "total": 229,
-                "correct": 218.61666666666667
+                "total": 258,
+                "correct": 249.71666666666664
             }
         },
         {
@@ -53,14 +53,14 @@
             "path": "/texts/course/6. Determinants/config.yml",
             "status": {
                 "total": 68,
-                "correct": 60.95
+                "correct": 63.05
             }
         },
         {
             "path": "/texts/course/7. Eigen Values and Eigen Vectors/config.yml",
             "status": {
-                "total": 1,
-                "correct": 0
+                "total": 29,
+                "correct": 29
             }
         }
     ],
@@ -24901,7 +24901,7 @@
         {
             "path": "/texts/course/6. Determinants/Determinant Computation Algorithm/config.yml",
             "status": {
-                "correct": 2.9499999999999997,
+                "correct": 5.05,
                 "total": 10,
                 "testStatus": [
                     {
@@ -24916,23 +24916,23 @@
                     },
                     {
                         "name": "root -> results -> 1 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 1 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.001623376623376"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.456168831168831"
                     },
                     {
                         "name": "root -> results -> 2 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 746.0000000000006,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 2 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.93277701492911"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.93277701492911"
                     },
                     {
                         "name": "root -> results -> 3 -> 0",
@@ -24946,13 +24946,13 @@
                     },
                     {
                         "name": "root -> results -> 4 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 190.00000000000003,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 4 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.537349687349687"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.751635401635402"
                     },
                     {
                         "name": "root -> results -> 5 -> 0",
@@ -24962,7 +24962,7 @@
                     {
                         "name": "root -> results -> 5 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.964021796009372"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.178307510295089"
                     },
                     {
                         "name": "root -> results -> 6 -> 0",
@@ -24972,37 +24972,37 @@
                     {
                         "name": "root -> results -> 6 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.893663013667163"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.615885235889387"
                     },
                     {
                         "name": "root -> results -> 7 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 450.0000000000003,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 7 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.943412424634518"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.002235954046283"
                     },
                     {
                         "name": "root -> results -> 8 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 12.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 8 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.645833333333334"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.6458333333333335"
                     },
                     {
                         "name": "root -> results -> 9 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1512.0000000000005,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 9 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.622183759867584"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.997183759867584"
                     },
                     {
                         "name": "root -> results -> 10 -> 0",
@@ -25012,37 +25012,37 @@
                     {
                         "name": "root -> results -> 10 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.190828280033521"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.815828280033521"
                     },
                     {
                         "name": "root -> results -> 11 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 12.000000000000002,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 11 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.705555555555556"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.038888888888889"
                     },
                     {
                         "name": "root -> results -> 12 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 10.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 12 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.743589743589744"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.3589743589743595"
                     },
                     {
                         "name": "root -> results -> 13 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 50.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 13 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.75955710955711"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.067249417249418"
                     },
                     {
                         "name": "root -> results -> 14 -> 0",
@@ -25052,17 +25052,17 @@
                     {
                         "name": "root -> results -> 14 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.0"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.25"
                     },
                     {
                         "name": "root -> results -> 15 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 36.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 15 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.703962703962703"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.165501165501165"
                     },
                     {
                         "name": "root -> results -> 16 -> 0",
@@ -25072,17 +25072,17 @@
                     {
                         "name": "root -> results -> 16 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.96969696969697"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.424242424242424"
                     },
                     {
                         "name": "root -> results -> 17 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 16.00000000000002,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 17 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.705128205128204"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.243589743589744"
                     },
                     {
                         "name": "root -> results -> 18 -> 0",
@@ -25096,33 +25096,33 @@
                     },
                     {
                         "name": "root -> results -> 19 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 296.0000000000002,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 19 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.374183612931702"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.491830671755233"
                     },
                     {
                         "name": "root -> results -> 20 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 20 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.6666666666666665"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.1666666666666665"
                     },
                     {
                         "name": "root -> results -> 21 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 145.99999999999991,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 21 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.502563638501138"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.377563638501138"
                     },
                     {
                         "name": "root -> results -> 22 -> 0",
@@ -25132,7 +25132,7 @@
                     {
                         "name": "root -> results -> 22 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.265151515151515"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.174242424242424"
                     },
                     {
                         "name": "root -> results -> 23 -> 0",
@@ -25142,17 +25142,17 @@
                     {
                         "name": "root -> results -> 23 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.0"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.6666666666666665"
                     },
                     {
                         "name": "root -> results -> 24 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1.9999999999999991,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 24 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.511666666666667"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.211666666666667"
                     },
                     {
                         "name": "root -> results -> 25 -> 0",
@@ -25166,23 +25166,23 @@
                     },
                     {
                         "name": "root -> results -> 26 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 297.9999999999999,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 26 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.44965507684995"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.7621550768499485"
                     },
                     {
                         "name": "root -> results -> 27 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 27 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.6111111111111107"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.2777777777777772"
                     },
                     {
                         "name": "root -> results -> 28 -> 0",
@@ -25192,7 +25192,7 @@
                     {
                         "name": "root -> results -> 28 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.45"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.988461538461538"
                     },
                     {
                         "name": "root -> results -> 29 -> 0",
@@ -25202,17 +25202,17 @@
                     {
                         "name": "root -> results -> 29 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.804104714210421"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.5818824919882"
                     },
                     {
                         "name": "root -> results -> 30 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 30 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.233333333333333"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.733333333333333"
                     },
                     {
                         "name": "root -> results -> 31 -> 0",
@@ -25222,27 +25222,27 @@
                     {
                         "name": "root -> results -> 31 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.954545454545454"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.590909090909091"
                     },
                     {
                         "name": "root -> results -> 32 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.999999999999996,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 32 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.077416173570018"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.154339250493096"
                     },
                     {
                         "name": "root -> results -> 33 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 33 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.4375"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.9375"
                     },
                     {
                         "name": "root -> results -> 34 -> 0",
@@ -25252,7 +25252,7 @@
                     {
                         "name": "root -> results -> 34 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.843452380952382"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.486309523809523"
                     },
                     {
                         "name": "root -> results -> 35 -> 0",
@@ -25272,7 +25272,7 @@
                     {
                         "name": "root -> results -> 36 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.637789987789988"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.7806471306471305"
                     },
                     {
                         "name": "root -> results -> 37 -> 0",
@@ -25282,17 +25282,17 @@
                     {
                         "name": "root -> results -> 37 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.0"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.5714285714285716"
                     },
                     {
                         "name": "root -> results -> 38 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 4.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 38 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.238095238095238"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.238095238095238"
                     },
                     {
                         "name": "root -> results -> 39 -> 0",
@@ -25316,23 +25316,23 @@
                     },
                     {
                         "name": "root -> results -> 41 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 26.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 41 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.649715892969265"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.03433127758465"
                     },
                     {
                         "name": "root -> results -> 42 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 15587.999999999998,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 42 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 11.457358977535549"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.194201082798708"
                     },
                     {
                         "name": "root -> results -> 43 -> 0",
@@ -25342,7 +25342,7 @@
                     {
                         "name": "root -> results -> 43 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.045454545454546"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.318181818181818"
                     },
                     {
                         "name": "root -> results -> 44 -> 0",
@@ -25362,17 +25362,17 @@
                     {
                         "name": "root -> results -> 45 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.6666666666666667"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.3333333333333333"
                     },
                     {
                         "name": "root -> results -> 46 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 39.999999999999986,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 46 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.754960317460317"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.838293650793651"
                     },
                     {
                         "name": "root -> results -> 47 -> 0",
@@ -25382,7 +25382,7 @@
                     {
                         "name": "root -> results -> 47 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.5"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.125"
                     },
                     {
                         "name": "root -> results -> 48 -> 0",
@@ -25392,17 +25392,17 @@
                     {
                         "name": "root -> results -> 48 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.125"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.75"
                     },
                     {
                         "name": "root -> results -> 49 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 49 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.3333333333333335"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.0"
                     },
                     {
                         "name": "root -> results -> 50 -> 0",
@@ -25412,7 +25412,7 @@
                     {
                         "name": "root -> results -> 50 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.160814120520002"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.660814120520002"
                     },
                     {
                         "name": "root -> results -> 51 -> 0",
@@ -25422,7 +25422,7 @@
                     {
                         "name": "root -> results -> 51 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.045454545454546"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.5"
                     },
                     {
                         "name": "root -> results -> 52 -> 0",
@@ -25432,7 +25432,7 @@
                     {
                         "name": "root -> results -> 52 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.444444444444445"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.777777777777778"
                     },
                     {
                         "name": "root -> results -> 53 -> 0",
@@ -25452,7 +25452,7 @@
                     {
                         "name": "root -> results -> 54 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.0"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.75"
                     },
                     {
                         "name": "root -> results -> 55 -> 0",
@@ -25462,7 +25462,7 @@
                     {
                         "name": "root -> results -> 55 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.124603174603174"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.981746031746032"
                     },
                     {
                         "name": "root -> results -> 56 -> 0",
@@ -25472,17 +25472,17 @@
                     {
                         "name": "root -> results -> 56 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.05"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.25"
                     },
                     {
                         "name": "root -> results -> 57 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 34.00000000000001,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 57 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.801415088179793"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.401415088179794"
                     },
                     {
                         "name": "root -> results -> 58 -> 0",
@@ -25492,7 +25492,7 @@
                     {
                         "name": "root -> results -> 58 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.222015076848699"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.022015076848699"
                     },
                     {
                         "name": "root -> results -> 59 -> 0",
@@ -25502,17 +25502,17 @@
                     {
                         "name": "root -> results -> 59 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.75"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.0"
                     },
                     {
                         "name": "root -> results -> 60 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 53.99999999999998,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 60 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.024716553287982"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.096145124716554"
                     },
                     {
                         "name": "root -> results -> 61 -> 0",
@@ -25522,7 +25522,7 @@
                     {
                         "name": "root -> results -> 61 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.0"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.8"
                     },
                     {
                         "name": "root -> results -> 62 -> 0",
@@ -25536,23 +25536,23 @@
                     },
                     {
                         "name": "root -> results -> 63 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 192.0000000000001,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 63 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.862596861133445"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.262596861133447"
                     },
                     {
                         "name": "root -> results -> 64 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 216.00000000000026,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 64 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.35539107576035"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.061273428701526"
                     },
                     {
                         "name": "root -> results -> 65 -> 0",
@@ -25562,7 +25562,7 @@
                     {
                         "name": "root -> results -> 65 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.8"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.4"
                     },
                     {
                         "name": "root -> results -> 66 -> 0",
@@ -25572,37 +25572,37 @@
                     {
                         "name": "root -> results -> 66 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.0"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.6666666666666667"
                     },
                     {
                         "name": "root -> results -> 67 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 159.9999999999998,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 67 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.541832958900489"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.408499625567155"
                     },
                     {
                         "name": "root -> results -> 68 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 18.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 68 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.275"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.775"
                     },
                     {
                         "name": "root -> results -> 69 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 1777.9999999999966,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 69 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.867573781526216"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.200907114859552"
                     },
                     {
                         "name": "root -> results -> 70 -> 0",
@@ -25612,7 +25612,7 @@
                     {
                         "name": "root -> results -> 70 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.533928571428572"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.7839285714285715"
                     },
                     {
                         "name": "root -> results -> 71 -> 0",
@@ -25622,7 +25622,7 @@
                     {
                         "name": "root -> results -> 71 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.907231014465564"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.57389768113223"
                     },
                     {
                         "name": "root -> results -> 72 -> 0",
@@ -25632,7 +25632,7 @@
                     {
                         "name": "root -> results -> 72 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.75"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.5"
                     },
                     {
                         "name": "root -> results -> 73 -> 0",
@@ -25642,37 +25642,37 @@
                     {
                         "name": "root -> results -> 73 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.690435058732284"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.579323947621171"
                     },
                     {
                         "name": "root -> results -> 74 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 74.00000000000004,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 74 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.991117078416451"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.254274973153292"
                     },
                     {
                         "name": "root -> results -> 75 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 96.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 75 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.953846153846154"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.415384615384616"
                     },
                     {
                         "name": "root -> results -> 76 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 13.999999999999998,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 76 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.550264550264551"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.216931216931218"
                     },
                     {
                         "name": "root -> results -> 77 -> 0",
@@ -25682,7 +25682,7 @@
                     {
                         "name": "root -> results -> 77 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.666666666666667"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.222222222222222"
                     },
                     {
                         "name": "root -> results -> 78 -> 0",
@@ -25692,37 +25692,37 @@
                     {
                         "name": "root -> results -> 78 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.6666666666666665"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.1666666666666665"
                     },
                     {
                         "name": "root -> results -> 79 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.999999999999999,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 79 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.091025641025642"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.860256410256411"
                     },
                     {
                         "name": "root -> results -> 80 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 80 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.0"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.6"
                     },
                     {
                         "name": "root -> results -> 81 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2399.9999999999986,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 81 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.359376250944045"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.234376250944045"
                     },
                     {
                         "name": "root -> results -> 82 -> 0",
@@ -25732,7 +25732,7 @@
                     {
                         "name": "root -> results -> 82 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.794871794871795"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.794871794871795"
                     },
                     {
                         "name": "root -> results -> 83 -> 0",
@@ -25742,7 +25742,7 @@
                     {
                         "name": "root -> results -> 83 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.984848484848485"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.257575757575758"
                     },
                     {
                         "name": "root -> results -> 84 -> 0",
@@ -25752,7 +25752,7 @@
                     {
                         "name": "root -> results -> 84 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.4"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.1"
                     },
                     {
                         "name": "root -> results -> 85 -> 0",
@@ -25762,7 +25762,7 @@
                     {
                         "name": "root -> results -> 85 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.777777777777778"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.888888888888889"
                     },
                     {
                         "name": "root -> results -> 86 -> 0",
@@ -25782,7 +25782,7 @@
                     {
                         "name": "root -> results -> 87 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.25"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.75"
                     },
                     {
                         "name": "root -> results -> 88 -> 0",
@@ -25792,37 +25792,37 @@
                     {
                         "name": "root -> results -> 88 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.0"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.3333333333333335"
                     },
                     {
                         "name": "root -> results -> 89 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 5.999999999999995,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 89 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.385704281712686"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.099989995998399"
                     },
                     {
                         "name": "root -> results -> 90 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 124.00000000000009,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 90 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.586519268419421"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 7.453185935086088"
                     },
                     {
                         "name": "root -> results -> 91 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 2.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 91 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.1"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.7"
                     },
                     {
                         "name": "root -> results -> 92 -> 0",
@@ -25842,7 +25842,7 @@
                     {
                         "name": "root -> results -> 93 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.8125"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.3125"
                     },
                     {
                         "name": "root -> results -> 94 -> 0",
@@ -25852,7 +25852,7 @@
                     {
                         "name": "root -> results -> 94 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.555555555555555"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.444444444444445"
                     },
                     {
                         "name": "root -> results -> 95 -> 0",
@@ -25862,17 +25862,17 @@
                     {
                         "name": "root -> results -> 95 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.777777777777778"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.444444444444445"
                     },
                     {
                         "name": "root -> results -> 96 -> 0",
-                        "ok": false,
-                        "status": "\n                    FAILED: Incorrect answer. Misfit is 8.0,'\n                    that is larger than eps (0.0001)"
+                        "ok": true,
+                        "status": "OK"
                     },
                     {
                         "name": "root -> results -> 96 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.958333333333334"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.208333333333334"
                     },
                     {
                         "name": "root -> results -> 97 -> 0",
@@ -25882,7 +25882,7 @@
                     {
                         "name": "root -> results -> 97 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.933333333333332"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.115151515151516"
                     },
                     {
                         "name": "root -> results -> 98 -> 0",
@@ -25892,7 +25892,7 @@
                     {
                         "name": "root -> results -> 98 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.166666666666667"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.1666666666666665"
                     },
                     {
                         "name": "root -> results -> 99 -> 0",
@@ -25902,7 +25902,7 @@
                     {
                         "name": "root -> results -> 99 -> 1",
                         "ok": false,
-                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.0"
+                        "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.2857142857142856"
                     }
                 ]
             }
@@ -27924,6 +27924,133 @@
                 "selectedVariantIds": [
                     3,
                     2
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/7. Eigen Values and Eigen Vectors/Definition/config.yml",
+            "status": {
+                "total": 3,
+                "correct": 3,
+                "selectedVariantIds": [
+                    0,
+                    3,
+                    5,
+                    1,
+                    2
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/7. Eigen Values and Eigen Vectors/Properties/config.yml",
+            "status": {
+                "total": 3,
+                "correct": 3,
+                "selectedVariantIds": [
+                    0,
+                    7,
+                    5,
+                    1,
+                    8
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/7. Eigen Values and Eigen Vectors/Diagonalized Form of Matrix/config.yml",
+            "status": {
+                "total": 5,
+                "correct": 5,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/7. Eigen Values and Eigen Vectors/Matrix Power and Exponent/config.yml",
+            "status": {
+                "total": 5,
+                "correct": 5,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/7. Eigen Values and Eigen Vectors/Differential Equations Evolutionary Matrix/config.yml",
+            "status": {
+                "total": 5,
+                "correct": 5,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9,
+                    10,
+                    11,
+                    12,
+                    13,
+                    14,
+                    15,
+                    16
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/7. Eigen Values and Eigen Vectors/Differential Equations General Solution/config.yml",
+            "status": {
+                "total": 5,
+                "correct": 5,
+                "selectedVariantIds": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6,
+                    7,
+                    8,
+                    9
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/7. Eigen Values and Eigen Vectors/Jordan Chain/config.yml",
+            "status": {
+                "total": 3,
+                "correct": 3,
+                "selectedVariantIds": [
+                    0,
+                    2,
+                    4,
+                    10,
+                    8,
+                    3,
+                    6,
+                    7
                 ]
             }
         }
